@@ -8,7 +8,7 @@ Why this approach worked while others failed?:
 
 Hardware Directness: 
 
-Most Arduino USB libraries are written for external chips (like the MAX3421E). This code talks directly to the internal USB engine of the ESP32-S3.
+Most Arduino USB libraries are written for external chips (like the MAX3421E). This code, onchange,  talks directly to the internal USB engine of the ESP32-S3.
 
 Interface Claiming: 
 
