@@ -18,7 +18,7 @@ Endpoint Discovery:
 
 By manually scanning the descriptors, we stopped "guessing" if the printer was on address 1 or 2 and let the esp32s3 find the correct path.
 
-Key Components of the script:
+Key Components of the code script:
 
 ComponentFunctionusb_host_installPowers on the USB hardware inside the ESP32-S3.
 usb_host_client_registerCreates a "listener" for when you plug/unplug the cable.
