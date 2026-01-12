@@ -1,4 +1,4 @@
-# ESP32S3 FOR USB PRINTER
+# USB PRINTING WITH ESP32S3
 
 ## Esc Pos Usb printer with Esp32S3
 
